@@ -1,0 +1,10 @@
+tensorflow
+tf-keras
+gradio
+underthesea
+numpy<2.0.0
+h5py
+pandas
+matplotlib
+openpyxl
+transformers

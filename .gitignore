@@ -1,0 +1,23 @@
+# Ignore heavy archives and deep learning models
+*.zip
+*.tar.gz
+*.rar
+*.keras
+*.h5
+
+# TensorFlow SavedModel generated folders
+variables/
+*.pb
+fingerprint.pb
+keras_metadata.pb
+saved_model.pb
+
+# Python caches and system files
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.DS_Store
+.env
+venv/
+env/
